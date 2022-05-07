@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">Autó biztosítás</string>
+    <string name="username">Felhasználónév</string>
+    <string name="password">Jelszó</string>
+    <string name="login">Bejelentkezés</string>
+    <string name="register">Regisztráció</string>
+    <string name="vissza">Vissza</string>
+    <string name="jelsz_meger_s_t_se">Jelszó megerősítése</string>
+    <string name="email_c_m">Email cím</string>
+    <string name="email">Email cím</string>
+    <string name="update">Frissítés</string>
+    <string name="delete">Törlés</string>
+    <string name="schedule">Ütemezés</string>
+    <string name="owner">Tulaj neve</string>
+    <string name="brand">Autó márkája</string>
+    <string name="licensePlateNumber">Rendszám</string>
+    <string name="besz_r_s">Beszúrás</string>
+    <string name="insert">Beszúrás</string>
+    <string name="search">Keresés</string>
+    <string name="listAll">Listázás</string>
+    <string name="logout">Kijelentkezés</string>
+    <string name="map">map</string>
+
+    <string-array name="car_insurance_number_plates">
+        <item>NRC-470</item>
+        <item>RAP-235</item>
+        <item>NAR-712</item>
+        <item>NLE-048</item>
+        <item>GGT-677</item>
+        <item>BLZ-420</item>
+        <item>NAV-001</item>
+        <item>END-027</item>
+        <item>VER-033</item>
+        <item>CJU-784</item>
+    </string-array>
+
+    <string-array name="car_insurance_brands">
+        <item>Audi</item>
+        <item>Peugeot</item>
+        <item>Mazda</item>
+        <item>Renault</item>
+        <item>Peugeot</item>
+        <item>Audi</item>
+        <item>Audi</item>
+        <item>Mazda</item>
+        <item>Renault</item>
+        <item>Mercedes</item>
+    </string-array>
+
+    <string-array name="car_insurance_owners">
+        <item>Kovács Bence</item>
+        <item>Nagy Sándor</item>
+        <item>Kiss Árpád</item>
+        <item>Hajós Tivadar</item>
+        <item>Kender János</item>
+        <item>Kiss Réka</item>
+        <item>Kolompár Katalin</item>
+        <item>Kiss László</item>
+        <item>Nagy Éva</item>
+        <item>Tulok Endre</item>
+    </string-array>
+
+    <string-array name="car_insurance_scheduled">
+        <item>Negyed-éves</item>
+        <item>Fél-éves</item>
+        <item>Éves</item>
+        <item>Negyed-éves</item>
+        <item>Három-negyed-éves</item>
+        <item>Fél-éves</item>
+        <item>Fél-éves</item>
+        <item>Éves</item>
+        <item>Három-negyed-éves</item>
+        <item>Három-negyed-éves</item>
+    </string-array>
+</resources>

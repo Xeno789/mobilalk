@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Programming/mobilalk/app/src/main/res/drawable/button_background.xml" value="0.2765" />
+        <entry key="..\:/Programming/mobilalk/app/src/main/res/drawable/ic_insert.xml" value="0.196" />
+        <entry key="..\:/Programming/mobilalk/app/src/main/res/drawable/ic_list.xml" value="0.196" />
+        <entry key="..\:/Programming/mobilalk/app/src/main/res/drawable/ic_logout.xml" value="0.196" />
+        <entry key="..\:/Programming/mobilalk/app/src/main/res/drawable/ic_search.xml" value="0.196" />
+        <entry key="..\:/Programming/mobilalk/app/src/main/res/layout-land/activity_car_insurance.xml" value="0.23015873015873015" />
+        <entry key="..\:/Programming/mobilalk/app/src/main/res/layout-land/activity_main.xml" value="0.1591710758377425" />
+        <entry key="..\:/Programming/mobilalk/app/src/main/res/layout-land/activity_register.xml" value="0.23015873015873015" />
+        <entry key="..\:/Programming/mobilalk/app/src/main/res/layout-land/car_insurance_item.xml" value="0.23015873015873015" />
+        <entry key="..\:/Programming/mobilalk/app/src/main/res/layout/activity_car_insurance.xml" value="0.18070175438596492" />
+        <entry key="..\:/Programming/mobilalk/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Programming/mobilalk/app/src/main/res/layout/activity_register.xml" value="0.22017543859649122" />
+        <entry key="..\:/Programming/mobilalk/app/src/main/res/layout/car_insurance_item.xml" value="0.18070175438596492" />
+        <entry key="..\:/Programming/mobilalk/app/src/main/res/menu/car_insurance_menu.xml" value="0.18070175438596492" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

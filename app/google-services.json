@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "814243767819",
+    "firebase_url": "https://mobilalkkotprog-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "mobilalkkotprog",
+    "storage_bucket": "mobilalkkotprog.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814243767819:android:75a64d65e341908c57c90e",
+        "android_client_info": {
+          "package_name": "com.example.kotprog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "814243767819-27caghp20rtqd2nlvip9c0fmdsfbrlns.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kotprog",
+            "certificate_hash": "641ce5babd184680ba79782eb3bc785a930b31c0"
+          }
+        },
+        {
+          "client_id": "814243767819-5soed6gt3atqquki1inbmlcbvp91tnai.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABQCDZb2VGSs9eIbX5sy1d8ODadqsTBF8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "814243767819-5soed6gt3atqquki1inbmlcbvp91tnai.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
